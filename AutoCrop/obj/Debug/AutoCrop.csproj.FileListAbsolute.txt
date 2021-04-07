@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\bin\Debug\AutoCrop.exe.config
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\bin\Debug\AutoCrop.exe
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\bin\Debug\AutoCrop.pdb
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\obj\Debug\AutoCrop.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\obj\Debug\AutoCrop.Form1.resources
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\obj\Debug\AutoCrop.Properties.Resources.resources
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\obj\Debug\AutoCrop.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\obj\Debug\AutoCrop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\obj\Debug\AutoCrop.exe
+C:\Users\Administrator\source\repos\AutoCrop\AutoCrop\obj\Debug\AutoCrop.pdb
